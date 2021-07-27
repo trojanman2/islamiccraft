@@ -1,0 +1,2 @@
+"creeper_primed_nopitchchange": {"replace":true,"sounds": ["custom/fuse2"]},
+"creeper.primed": {"replace":true,"category": "hostile","sounds": [{"type": "event","pitch":1.0,"name": "creeper_primed_nopitchchange"}]}
